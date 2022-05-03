@@ -1,0 +1,5 @@
+pwm.c:23:6:PWM_Init	8	static
+pwm.c:34:6:BLUE_PWM	16	static
+pwm.c:72:13:RED_PWM	16	static
+pwm.c:113:13:GREEN_PWM	16	static
+pwm.c:150:6:Write_LED	24	static

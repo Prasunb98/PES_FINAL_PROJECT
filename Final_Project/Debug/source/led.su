@@ -1,0 +1,2 @@
+led.c:19:6:RGB_INIT	8	static
+led.c:38:6:Control_RGB_LEDs	24	static

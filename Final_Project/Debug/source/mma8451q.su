@@ -1,0 +1,3 @@
+MMA8451Q.c:29:5:init_accel	8	static
+MMA8451Q.c:40:6:read_xyz	32	static
+MMA8451Q.c:73:6:roll_pitch_calculator	32	static

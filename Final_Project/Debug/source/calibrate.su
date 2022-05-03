@@ -1,0 +1,2 @@
+calibrate.c:27:6:accel_calibrate	48	static
+calibrate.c:79:6:Read_ACCxyz	40	static

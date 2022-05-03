@@ -1,0 +1,8 @@
+lcd.c:21:6:start_lcd	8	static
+lcd.c:37:6:display_temperature	16	static
+lcd.c:63:6:display_roll	16	static
+lcd.c:86:6:display_pitch	16	static
+lcd.c:112:9:lcd_string_write	24	static
+lcd.c:151:13:lcd_Cmd	16	static
+lcd.c:179:13:write_nibble	24	static
+lcd.c:230:13:delay	24	static

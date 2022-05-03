@@ -1,0 +1,4 @@
+stabilizer.c:19:6:Roll_Detector	16	static
+stabilizer.c:40:6:Roll_Controller	16	static
+stabilizer.c:53:6:Pitch_Detector	16	static
+stabilizer.c:73:6:Pitch_Controller	16	static

@@ -1,0 +1,4 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:756:22:NVIC_DisableIRQ	16	static
+gpio.c:18:6:Init_GPIO	8	static
+gpio.c:35:6:PORTD_IRQHandler	8	static

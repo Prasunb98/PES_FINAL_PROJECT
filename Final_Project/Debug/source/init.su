@@ -1,0 +1,5 @@
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+init.c:26:6:system_init	8	static
+init.c:52:13:config_sys_clock	8	static
+init.c:73:13:SysTickConfig	8	static
+init.c:88:13:lcd_init	8	static
