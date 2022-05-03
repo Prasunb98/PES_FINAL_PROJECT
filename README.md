@@ -26,10 +26,11 @@ Hence the objective of my project according to the proposal is completed.
 
 In case of testing scenario, I have used Manual Testing mode->
   For the accelerometer, I have checked whether the brightness of the LED is changing as per the rotation of the board in left,right,front and back which satisfies my testing part of the accelerometer. 
-  'Tilted - Left - RED 
   
-      
-   ![IMG_0167](https://user-images.githubusercontent.com/89999819/166411110-ecbec219-f0df-4dc6-9afd-0be61da1c40e.jpg)
+  
+  'Tilted - Left - RED 
+            
+            ![IMG_0167](https://user-images.githubusercontent.com/89999819/166411110-ecbec219-f0df-4dc6-9afd-0be61da1c40e.jpg)
    Tilted- Right - Blue
         
    ![IMG_0168](https://user-images.githubusercontent.com/89999819/166411116-7277ee83-1f6b-469b-af22-10f3bf36be80.jpg)
