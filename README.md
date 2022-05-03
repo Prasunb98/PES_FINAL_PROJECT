@@ -26,10 +26,23 @@ Hence the objective of my project according to the proposal is completed.
 
 In case of testing scenario, I have used Manual Testing mode->
   For the accelerometer, I have checked whether the brightness of the LED is changing as per the rotation of the board in left,right,front and back which satisfies my testing part of the accelerometer. 
-  
+  'Tilted - Left - RED 
+  ![IMG_0167](https://user-images.githubusercontent.com/89999819/166411110-ecbec219-f0df-4dc6-9afd-0be61da1c40e.jpg)
+   Tilted- Right - Blue
+  ![IMG_0168](https://user-images.githubusercontent.com/89999819/166411116-7277ee83-1f6b-469b-af22-10f3bf36be80.jpg)
+  Tilted - back - White
+  ![IMG_0172](https://user-images.githubusercontent.com/89999819/166411128-ca634e4a-510b-4814-a1ee-2aed8771517a.jpg)
+   Tilted - front - green
+   ![IMG_0174](https://user-images.githubusercontent.com/89999819/166411134-5d069f3c-6fa1-40e5-b87d-1b06cdf013e4.jpg)
+
   In the case of LM35 i have checked using the normal room temperature which was coming equal to what i expected. 
-  The LCD is also showing the same data as coming in UART. 
+  The LCD is also showing the same data as coming in UART.
   
+ Full hardware - 
+ ![IMG_0176](https://user-images.githubusercontent.com/89999819/166411425-b228fd0b-4624-4923-b31b-9afe1e381904.jpg)
+
+ 
+
  Working demo Link - 
 
 
