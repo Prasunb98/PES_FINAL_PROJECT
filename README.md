@@ -30,13 +30,18 @@ In case of testing scenario, I have used Manual Testing mode->
   
   'Tilted - Left - RED 
             
-            ![IMG_0167](https://user-images.githubusercontent.com/89999819/166411110-ecbec219-f0df-4dc6-9afd-0be61da1c40e.jpg)
+   ![IMG_0167](https://user-images.githubusercontent.com/89999819/166411110-ecbec219-f0df-4dc6-9afd-0be61da1c40e.jpg)
+   
    Tilted- Right - Blue
         
    ![IMG_0168](https://user-images.githubusercontent.com/89999819/166411116-7277ee83-1f6b-469b-af22-10f3bf36be80.jpg)
+   
+   
   Tilted - back - White
  
   ![IMG_0172](https://user-images.githubusercontent.com/89999819/166411128-ca634e4a-510b-4814-a1ee-2aed8771517a.jpg)
+  
+  
    Tilted - front - green
    
   ![IMG_0174](https://user-images.githubusercontent.com/89999819/166411134-5d069f3c-6fa1-40e5-b87d-1b06cdf013e4.jpg)
